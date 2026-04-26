@@ -23,7 +23,7 @@
 
 ---
 
-## 📸 Preview
+##  Preview
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Preloader Animation** — smooth branded loading screen on first visit
 - **Dark / Light Mode** — persistent via `localStorage`, toggled from navbar
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|-----------|
@@ -65,7 +65,7 @@
 
 ---
 
-## 📦 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -97,7 +97,7 @@ npm run preview     # preview production build locally
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Lumina_Creative/
@@ -135,7 +135,7 @@ Lumina_Creative/
 
 ---
 
-## 🎨 Color Palette
+## Color Palette
 
 | Token | Hex | Usage |
 |-------|-----|-------|
@@ -146,7 +146,7 @@ Lumina_Creative/
 
 ---
 
-## 🌐 Sections
+## Sections
 
 1. **Hero** — tagline, CTA buttons, animated statistics (50+ projects, 30+ clients, 5+ years)
 2. **About** — agency story and core values
@@ -159,7 +159,7 @@ Lumina_Creative/
 
 ---
 
-## 📄 License
+##  License
 
 MIT © [Lumina Creative](https://github.com/Hudiii/Lumina_Creative)
 
