@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    scroll-padding-top: 72px; /* tinggi navbar agar section heading tidak tertutup */
+  }
+
+  body {
+    @apply antialiased;
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+}
+
+@layer utilities {
+  .transition-colors {
+    transition-property: color, background-color, border-color;
+    transition-duration: 300ms;
+  }
+}
